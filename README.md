@@ -1,2 +1,1 @@
-# Trabajo
-Trabajo supuestamente en equipo
+# Cosas de python
